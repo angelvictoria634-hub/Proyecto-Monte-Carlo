@@ -48,5 +48,3 @@ Para ejecutar los programas:
 
 4. Pegar la URL del repositorio:
 git clone [URL DEL REPOSITORIO]
-## Actualización
-Corrección de estructura del proyecto
