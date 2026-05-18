@@ -3,7 +3,7 @@ Proyecto de IWG-400, experimentación con Monte Carlo
 
 ## Descripción
 
-Este proyecto consiste en la implementación y análisis de distintos métodos de aproximación numérica utilizando Python. Se estudiaron aplicaciones del método de Monte Carlo para la estimación del valor de π y el cálculo de integrales definidas, además de compararlo con métodos deterministas como la regla del trapecio y la regla de Simpson.
+Este proyecto consiste en la implementación y análisis de distintos métodos de aproximación numérica utilizando Python. Se estudiaron aplicaciones del método de Monte Carlo para la estimación del valor de π y el cálculo de integrales definidas, además de compararlo con métodos deterministas como la regla del trapecio y la regla de Simpson en el caso de las integrales,y con el experimento de la aguja de Buffon en el caso de la aproximación de π.
 
 Adicionalmente, se desarrollaron simulaciones de caminatas aleatorias (Random Walk) en una y dos dimensiones, con el objetivo de analizar experimentalmente algunas propiedades teóricas de este tipo de procesos.
 
@@ -32,6 +32,7 @@ El proyecto incluye:
 
 - Python
 - Visual Studio Code
+- GitHub
 - Bibliotecas:
 - NumPy
 - Matplotlib
@@ -55,8 +56,8 @@ git clone [URL DEL REPOSITORIO]
 
 1. Abrir Visual Studio Code.
 
-2. Presionar `Ctrl + ñ` para abrir la terminal
+2. Presionar `Ctrl + ñ` para abrir la terminal.
 
-3. Escribir el comando: `git clone`
+3. Escribir el comando: `git clone`.
 
-4. Pegar la URL del repositorio: `git clone: [URL DEL REPOSITORIO]`
+4. Pegar la URL del repositorio: `git clone [URL DEL REPOSITORIO]`.
