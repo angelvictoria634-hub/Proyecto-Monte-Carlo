@@ -55,4 +55,8 @@ git clone [URL DEL REPOSITORIO]
 
 1. Abrir Visual Studio Code.
 
-2. Presionar `Ctrl + ñ` (teclado en español) o `Ctrl + `` (teclado en Inglés)
+2. Presionar `Ctrl + ñ` para abrir la terminal
+
+3. Escribir el comando: `git clone`
+
+4. Pegar la URL del repositorio: `git clone: [URL DEL REPOSITORIO]`
