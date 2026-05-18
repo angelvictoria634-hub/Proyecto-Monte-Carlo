@@ -3,7 +3,7 @@ Proyecto de IWG-400, experimentación con Monte Carlo
 
 ## Descripción
 
-Este proyecto consiste en la implementación y análisis de distintos métodos de aproximación numérica utilizando Python. Se estudiaron aplicaciones del método de Monte Carlo para la estimación del valor de π y el cálculo de integrales definidas, además de compararlo con métodos deterministas como la regla del trapecio y la regla de Simpson en el caso de las integrales,y con el experimento de la aguja de Buffon en el caso de la aproximación de π.
+Este proyecto consiste en la implementación y análisis de distintos métodos de aproximación numérica utilizando Python. Se estudiaron aplicaciones del método de Monte Carlo para la estimación del valor de π y el cálculo de integrales definidas, además de compararlo con métodos deterministas como la regla del trapecio y la regla de Simpson en el caso de las integrales, y con el experimento de la aguja de Buffon en el caso de la aproximación de π.
 
 Adicionalmente, se desarrollaron simulaciones de caminatas aleatorias (Random Walk) en una y dos dimensiones, con el objetivo de analizar experimentalmente algunas propiedades teóricas de este tipo de procesos.
 
@@ -21,9 +21,9 @@ El proyecto incluye:
 - Estimación de π mediante Monte Carlo.
 - Experimento de la aguja de Buffon.
 - Aproximación de integrales usando:
-- Método de Monte Carlo 
-- Regla del trapecio
-- Regla de Simpson
+- Método de Monte Carlo.
+- Regla del trapecio.
+- Regla de Simpson.
 - Integración en dos dimensiones.
 - Simulación de Random Walk en 1D y 2D.
 - Gráficos comparativos y análisis de resultados.
@@ -50,7 +50,7 @@ Para ejecutar los programas:
 3. Seleccionar la opción **Git: Clone**.
 
 4. Pegar la URL del repositorio:
-git clone [URL DEL REPOSITORIO]
+git clone [URL DEL REPOSITORIO] .
 
 **Opción 2:**
 
