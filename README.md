@@ -40,6 +40,8 @@ El proyecto incluye:
 
 Para ejecutar los programas:
 
+**Opción 1:**
+
 1. Abrir Visual Studio Code.
 
 2. Presionar `Ctrl + Shift + P` para abrir la paleta de comandos.
@@ -48,3 +50,9 @@ Para ejecutar los programas:
 
 4. Pegar la URL del repositorio:
 git clone [URL DEL REPOSITORIO]
+
+**Opción 2:**
+
+1. Abrir Visual Studio Code.
+
+2. Presionar `Ctrl + ñ` (teclado en español) o `Ctrl + `` (teclado en Inglés)
